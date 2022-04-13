@@ -1,0 +1,17 @@
+auth0-python
+authlib
+flask
+h2o
+httpx
+nltk
+pyquery
+python-dotenv
+pytextrank
+requests
+sentence-transformers
+spacy
+tensorflow
+termcolor
+textblob
+twilio
+# https://storage.googleapis.com/tensorflow_fold/tensorflow_fold-0.0.1-py3-none-linux_x86_64.whl
